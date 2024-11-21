@@ -21,6 +21,25 @@ ProfitPulse is a comprehensive analytics platform designed to deliver actionable
 - **Visualization Tools**: Chart.js or D3.js for graphs and charts
 
 ---
+🏗️ Architecture Overview
+Data Layer:
+
+SQL Server database containing the AdventureWorks dataset.
+Entity Framework Core for ORM.
+Service Layer:
+
+ASP.NET Core API to manage data access and business logic.
+Frontend:
+
+Modern JavaScript framework for responsive and dynamic user interfaces.
+Hosting:
+
+Localhost for development; Azure for production deployment.
+---
+🚀 Future Enhancements
+Add predictive analytics using machine learning.
+Implement user authentication and role-based access.
+Deploy the application using CI/CD pipelines.
 
 ## ⚙️ Setup Instructions
 1. **Clone the Repository**:
@@ -34,7 +53,6 @@ Restore dependencies and build the project
 ```bash
 dotnet restore
 dotnet build
-
 
 
  
