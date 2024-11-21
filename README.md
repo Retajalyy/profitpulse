@@ -27,5 +27,15 @@ ProfitPulse is a comprehensive analytics platform designed to deliver actionable
    ```bash
    git clone https://github.com/your-username/ProfitPulse.git
    cd ProfitPulse
+---
+2.Backend Setup:
+
+Install the .NET SDK: Download .NET SDK.
+Restore dependencies and build the project
+```bash
+dotnet restore
+dotnet build
+
+
 
  
