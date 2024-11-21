@@ -1,5 +1,3 @@
-# profitpulse
- A business analytics platform for sales, customer insights, and operational trends.
 # ProfitPulse
 
 ## 📊 Project Overview
@@ -29,3 +27,5 @@ ProfitPulse is a comprehensive analytics platform designed to deliver actionable
    ```bash
    git clone https://github.com/your-username/ProfitPulse.git
    cd ProfitPulse
+
+ 
