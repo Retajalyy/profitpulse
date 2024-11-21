@@ -1,5 +1,4 @@
 # ProfitPulse
-![profitpulselogo](./ProfitPulseLogo.png](https://github.com/Retajalyy/profitpulse/blob/main/ProfitPulse%20logo.png)
 ## 📊 Project Overview
 ProfitPulse is a comprehensive analytics platform designed to deliver actionable insights into business performance. It leverages the AdventureWorks dataset to analyze key areas such as sales trends, customer demographics, and product performance.
 
